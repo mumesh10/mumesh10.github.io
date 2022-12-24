@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2012: Research Internship
+* Summer 2022: Research Internship
   * Micro-Robotics Lab, Shibaura Institute of Technology
   * Duties included: Built a simple inverted pendulum self-balancing robot using gyro sensor and programmed it via arduino to balance. Learnt various manufacturing processes and 3D printing softwares(Preform, flashprint 5) to program 3D printers. Built a customized boxer robot and demonstrated it to first year UG students for their project. Customized the boxer robot by installing a claw with 2 DOF and controlled it from a smartphone (IoT)         
   * Supervisor: Professor Sumito Nagasawa
