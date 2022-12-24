@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About Me
+======
+* A passionate team builder and team member with strong learning abilities with interest to create innovative creations and focused on analytical and complex problems with high accuracy. My ability to learn in new fields and attention to detail with agility is gifted with tact & grace.
+
 
 Education
 ======
@@ -21,40 +25,30 @@ Work experience
 
 Key Projects
 ======
-* Dynamics of polishing ball in polishing machine
+* Dynamics of polishing ball in polishing machine(December 2021 - September 2022)
+  * Duties included: To study the pitch, yaw and roll of the polishing ball from a video of it using deep learning methods. Did literature review on various machine learning and deep learning methods for temporal super resolution of a video. Using shape recovery from fast moving objects(deep learning method) to study the motion of the ball using Kaolin library. 
+  * Supervisor: Prof. Satish Bukkapatnam, Texas A&M University
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Dynamics of polishing ball in polishing machine
-        sub_title: Under Prof. Satish Bukkapatnam, Texas A&M University
-        caption: December 2021 - September 2022
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        # - title:  sproogen/modern-resume-theme
-         #   icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-         # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          To study the pitch, yaw and roll of the polishing ball from a video of it using deep learning methods. Did literature review on various machine learning and deep learning methods for temporal super resolution of a video. Using shape recovery from fast moving objects(deep learning method) to study the motion of the ball using Kaolin library
-       
+* IITK Motorsports: Senior Team Member(March 2020 - July 2022)
+  * Duties included: Problem Statement: To design a Single-Planetary Gearbox for formula Student Electric. Developed a python program that allowed to consider optimal gear confi gurations complying to AGMA Standards based on worst- case loading condition, sizing constraints and failure safety and solved it using MATLAB. Analyzed Gearbox Casing factor of safety and stresses for different materials using Ansys Static.
+  * Supervised and taught four junior students on designing gearbox for formula student electric, had regular online meets, where they were debriefed on their weekly assignments and resolved the problems they faced 
+           
+* Dynamic Vibrations(June 2021 - July 2021)
+  * Duties included: Learned non-linear dynamic vibrations in 1 DOF system for spring- mass system and implemented the theory for pendulums. Learned various numerical computational methods(such as runge- kutta method) and phase plots for simple pendulum(with and without damping) and implemented them in MATLAB.
+  * Supervisor: Prof. Suparno Mukhopadhyay, IIT Kanpur
+
+* Wrist Watch(February 2021 - March 2021)
+  * Course Project
+  * Duties included: Designed and developed a detailed CAD model of wrist watch which is purely mechanical driven in Fusion360. Learned how the mainspring delivers energy to the gear train and how the escapement mechanism delivers the energy in increments for the working of a wrist watch and Animated the whole watch using only spring energy in Fusion360
  
-Skills
+  
+A Little More About Me
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* A few technical skills that I posses:
+  * MATLAB
+  * R
+  * Python
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* My extra cirrucular activities:
+  * Served as NCC Cadet for an year at 2-UP-CTR division
+  * Participated in IITK Freshers'19 in Photography club 
