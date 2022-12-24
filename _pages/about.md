@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,6 +20,8 @@ Work experience
   * Micro-Robotics Lab, Shibaura Institute of Technology
   * Duties included: Built a simple inverted pendulum self-balancing robot using gyro sensor and programmed it via arduino to balance. Learnt various manufacturing processes and 3D printing softwares(Preform, flashprint 5) to program 3D printers. Built a customized boxer robot and demonstrated it to first year UG students for their project. Customized the boxer robot by installing a claw with 2 DOF and controlled it from a smartphone (IoT)         
   * Supervisor: Professor Sumito Nagasawa
+![CMG](/mumesh10.github.io/images/IMG_20220705_125024.jpg)  ![CMG_video](/mumesh10.github.io/images/video_20220719_172305_edit.mp4)  ![boxer_robot](/mumesh10.github.io/images/IMG_20220712_145857 (1).jpg)   
+
 
 Key Projects
 ======
@@ -29,7 +31,8 @@ Key Projects
 
 * IITK Motorsports: Senior Team Member(March 2020 - July 2022)
   * Duties included: Problem Statement: To design a Single-Planetary Gearbox for formula Student Electric. Developed a python program that allowed to consider optimal gear confi gurations complying to AGMA Standards based on worst- case loading condition, sizing constraints and failure safety and solved it using MATLAB. Analyzed Gearbox Casing factor of safety and stresses for different materials using Ansys Static.
-  * Supervised and taught four junior students on designing gearbox for formula student electric, had regular online meets, where they were debriefed on their weekly assignments and resolved the problems they faced 
+  * Supervised and taught four junior students on designing gearbox for formula student electric, had regular online meets, where they were debriefed on their weekly assignments and resolved the problems they faced.
+![gearbox](/mumesh10.github.io/images/Screenshot 2022-11-29 232715.png)  ![car](/mumesh10.github.io/images/Screenshot 2022-12-23 235940.png) 
            
 * Dynamic Vibrations(June 2021 - July 2021)
   * Duties included: Learned non-linear dynamic vibrations in 1 DOF system for spring- mass system and implemented the theory for pendulums. Learned various numerical computational methods(such as runge- kutta method) and phase plots for simple pendulum(with and without damping) and implemented them in MATLAB.
