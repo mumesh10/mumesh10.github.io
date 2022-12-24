@@ -20,7 +20,7 @@ Work experience
   * Micro-Robotics Lab, Shibaura Institute of Technology
   * Duties included: Built a simple inverted pendulum self-balancing robot using gyro sensor and programmed it via arduino to balance. Learnt various manufacturing processes and 3D printing softwares(Preform, flashprint 5) to program 3D printers. Built a customized boxer robot and demonstrated it to first year UG students for their project. Customized the boxer robot by installing a claw with 2 DOF and controlled it from a smartphone (IoT)         
   * Supervisor: Professor Sumito Nagasawa
-![CMG](/mumesh10.github.io/images/IMG_20220705_125024.jpg)  ![CMG_video](/mumesh10.github.io/images/video_20220719_172305_edit.mp4)  ![boxer_robot](/mumesh10.github.io/images/IMG_20220712_145857 (1).jpg)   
+<br/><img src='/IMG_20220705_125024.jpg'>  ![CMG_video](/mumesh10.github.io/images/video_20220719_172305_edit.mp4)  ![boxer_robot](/mumesh10.github.io/images/IMG_20220712_145857 (1).jpg)   
 
 
 Key Projects
