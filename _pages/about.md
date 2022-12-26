@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Mechanical, Indian Institute of Technology, 2019-present
+* B.Tech. in Mechanical, Indian Institute of Technology Kanpur, 2019-present
 
 Work experience
 ======
