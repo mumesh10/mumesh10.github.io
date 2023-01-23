@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* A passionate team builder and team member with strong learning abilities with interest to create innovative creations and focused on analytical and complex problems with high accuracy. My ability to learn in new fields and attention to detail with agility is gifted with tact & grace.
+* A passionate student with strong learning abilities and interest to create innovative creations and focused on analytical and complex problems with high accuracy. My research interests include Robotics, Control Systems and Dynamics.
 
 
 Education
