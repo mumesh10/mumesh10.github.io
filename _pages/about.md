@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* A passionate student with strong learning abilities and interest to create innovative creations and focused on analytical and complex problems with high accuracy. My research interests include Robotics, Control Systems and Dynamics.
+* A passionate and detail-oriented Mechanical Engineering graduate student with strong analytical skills and a drive for solving complex engineering problems with precision. I bring hands-on experience in mechanical design, system integration, and manufacturing practices such as GD&T, DFM/DFA, and FEA. My interests lie in developing innovative and efficient mechanical systems, with particular focus on Robotics, Control Systems, and Dynamic Mechanisms. I aim to contribute to cutting-edge product development through creative problem-solving and robust design methodologies.
 
 
 Education
 ======
-* B.Tech. in Mechanical, Indian Institute of Technology Kanpur, 2019-present
+* M.S. in Mechanical, University of Texas - Austin, 2025
+* B.Tech. in Mechanical, Indian Institute of Technology Kanpur, 2023
 
 Work experience
 ======
