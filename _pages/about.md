@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Aug 2023 - July 2024: Systems Design Lead
+  * ECOCar Cadillac EV, UT Austin
+  * Duties included: Optimized sub-frame components to reduce weight by 40% and also reduce stress concentration by 10% in Siemens NX using finite-element analyses, resulting in enhanced safety features with documented approvals.
+  * Led system design and integration for a modified production EV, coordinating mechanical, electrical subsystems(HV J-Box) to meet defined performance targets—resulting in improved powertrain efficiency and reduced thermal losses.
+<br/> <img src="https://user-images.githubusercontent.com/Screenshot 2025-08-05 122429.png">
 * Summer 2022: Research Internship
   * Micro-Robotics Lab, Shibaura Institute of Technology
   * Duties included: Built a simple inverted pendulum self-balancing robot using gyro sensor and programmed it via arduino to balance. Learnt various manufacturing processes and 3D printing softwares(Preform, flashprint 5) to program 3D printers. Built a customized boxer robot and demonstrated it to first year UG students for their project. Customized the boxer robot by installing a claw with 2 DOF and controlled it from a smartphone (IoT)         
@@ -25,6 +30,9 @@ Work experience
    
 
 
+Patent
+======
+*Provisional patent on six legged robot with minimal actuators (i.e. two) and steered it with alternating gait profiles for optimized eight bar linkage mechanism.
 
 Key Projects
 ======
